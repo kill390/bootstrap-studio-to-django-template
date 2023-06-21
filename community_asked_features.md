@@ -7,5 +7,6 @@ Yould could ask for a new feature (with PR on this file or issue), or work on on
 if you want to provide help !
 
 #### List of features
+1- If the script can export html files without django project
 
 *No feature expected actually, do not hesitate to propose one !*
